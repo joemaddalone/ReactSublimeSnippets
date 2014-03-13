@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+valueLink={$0}
+]]>
+</content>
+    <tabTrigger>vl</tabTrigger>
+    <description>valueLink</description>
+</snippet>

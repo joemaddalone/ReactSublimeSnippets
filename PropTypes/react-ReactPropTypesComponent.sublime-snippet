@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[React.PropTypes.component$0]]>
+</content>
+    <tabTrigger>rpc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React.PropTypes.component</description>
+</snippet>

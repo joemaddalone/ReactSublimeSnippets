@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[React.PropTypes.oneOfType[]]]>
+</content>
+    <tabTrigger>rpot</tabTrigger>
+    <scope>source.js</scope>
+    <description>React.PropTypes.oneOfType</description>
+</snippet>

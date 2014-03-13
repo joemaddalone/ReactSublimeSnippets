@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[getInitialState:function(){
+	return {$0}
+},]]>
+</content>
+    <tabTrigger>gi</tabTrigger>
+    <scope>source.js</scope>
+    <description>React getInitialState</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/jsx">
+	/** @jsx React.DOM */
+	$0
+</script>
+]]>
+</content>
+    <tabTrigger>jsxt</tabTrigger>
+    <description>React JSX script type</description>
+</snippet>

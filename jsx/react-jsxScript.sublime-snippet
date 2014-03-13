@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<script type="text/jsx" src="jsx/$0.js"></script>]]>
+</content>
+    <tabTrigger>jsx:src</tabTrigger>
+    <description>React JSX script src</description>
+</snippet>

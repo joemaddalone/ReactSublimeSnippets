@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+React.addons.LinkedStateMixin
+]]>
+</content>
+    <tabTrigger>raL</tabTrigger>
+    <description>React.addons.LinkedStateMixin</description>
+</snippet>

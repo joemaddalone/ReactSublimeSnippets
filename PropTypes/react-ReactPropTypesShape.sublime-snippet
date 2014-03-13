@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+React.PropTypes.shape({
+	$0
+})]]>
+</content>
+    <tabTrigger>rpsh</tabTrigger>
+    <scope>source.js</scope>
+    <description>React.PropTypes.shape</description>
+</snippet>

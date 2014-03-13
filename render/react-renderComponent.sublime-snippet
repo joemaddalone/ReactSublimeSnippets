@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+React.renderComponent(
+	<${1:Component} />,
+	document.getElementById('$0'))
+]]>
+</content>
+    <tabTrigger>ren</tabTrigger>
+    <scope>source.js</scope>
+    <description>React createClass</description>
+</snippet>

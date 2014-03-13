@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[this.refs.$0]]>
+</content>
+    <tabTrigger>thisr</tabTrigger>
+    <scope>source.js</scope>
+    <description>React this.refs</description>
+</snippet>
