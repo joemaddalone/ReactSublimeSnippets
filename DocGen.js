@@ -25,7 +25,7 @@ var walk = function(dir, done) {
   });
 };
 fs.writeFile('README.MD',"React Snippets for Sublime Text" + 
-	"\n====================\n---------------------\n" + 
+	"\n=================================\n---------------------\n" + 
 	"Trigger | Result\n" + 
 	":------- | :-------\n"
 )

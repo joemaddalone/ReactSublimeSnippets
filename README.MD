@@ -1,5 +1,5 @@
 React Snippets for Sublime Text
-====================
+=================================
 ---------------------
 Trigger | Result
 :------- | :-------
@@ -10,37 +10,37 @@ Trigger | Result
 **cwu** | React componentWillUnmount
 **unm** | React createClass
 **cdu** | React componentDidUpdate
-**cwup** | React componentWillUpdate
 **cwr** | React componentWillReceiveProps
-**scu** | React shouldComponentUpdate
+**cwup** | React componentWillUpdate
 **gd** | React getDefaultProps
+**scu** | React shouldComponentUpdate
+**gdn** | React getDOMNode
 **gi** | React getInitialState
+**jsx** | React JSX
+**pt** | propTypes
 **jsx:src** | React JSX script src
 **jsxt** | React JSX script type
-**pt** | propTypes
-**jsx** | React JSX
 **rp** | React.PropTypes
 **rpa** | React.PropTypes.array
 **rpao** | React.PropTypes.arrayOf
 **rpb** | React.PropTypes.boolean
 **rpc** | React.PropTypes.component
+**rpi** | React.PropTypes.instanceOf
 **rpf** | React.PropTypes.func
 **rpn** | React.PropTypes.number
-**rpi** | React.PropTypes.instanceOf
-**gdn** | React getDOMNode
+**rpobj** | React.PropTypes.object
 **rpot** | React.PropTypes.oneOfType
 **rpo** | React.PropTypes.oneOf
-**rpsh** | React.PropTypes.shape
 **rps** | React.PropTypes.string
-**raCSS** | React.addons.CSSTransitionGroup
-**raCS** | React.addons.classSet
-**rpobj** | React.PropTypes.object
+**rpsh** | React.PropTypes.shape
 **raL** | React.addons.LinkedStateMixin
+**raCS** | React.addons.classSet
+**raCSS** | React.addons.CSSTransitionGroup
 **thisl** | this.linkState
-**vl** | valueLink
 **ren** | React createClass
+**vl** | valueLink
 **sp** | React this.setProps
-**thisr** | React this.refs
 **ss** | React this.setState
 **thisp** | React this.props
+**thisr** | React this.refs
 **thiss** | React this.state
