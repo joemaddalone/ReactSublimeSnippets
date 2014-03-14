@@ -24,7 +24,7 @@ var walk = function(dir, done) {
     })();
   });
 };
-fs.writeFile('README.MD',"React Snippets for Sublime Text" + 
+fs.writeFile('README.md',"React Snippets for Sublime Text" + 
 	"\n=================================\n---------------------\n" + 
 	"Trigger | Result\n" + 
 	":------- | :-------\n"
@@ -35,7 +35,7 @@ walk('snippets', function(err, results) {
   results.map(function(file,i){
   	fs.readFile(file, "utf-8", function (err, data) {
         parser.parseString(data, function(err,data){
-					fs.appendFile('README.MD', 
+					fs.appendFile('README.md', 
 						'**' + data.snippet.tabTrigger + '** | ' + 
 						data.snippet.description + "\n", 
 						function (err) {});
