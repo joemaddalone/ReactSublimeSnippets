@@ -5,5 +5,5 @@ React.unmountComponentAtNode(document.getElementById('$0'))
 </content>
     <tabTrigger>unm</tabTrigger>
     <scope>source.js</scope>
-    <description>React createClass</description>
+    <description>React unmountComponent at node</description>
 </snippet>
