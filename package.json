@@ -1,0 +1,18 @@
+{
+  "name": "reactsnippets",
+  "version": "0.0.0",
+  "description": "Simple app for generating readme from Sublime snippets directories",
+  "main": "DocGen.js",
+  "dependencies": {
+    "xml2js": "~0.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joemaddalone/ReactSublimeSnippets.git"
+  },
+  "author": "Joe Maddalone",
+  "license": "BSD",
+  "readmeFilename": "README.MD",
+  "gitHead": "f90a7c30a9af70ae7d094645188b4d231bd51471"
+}
