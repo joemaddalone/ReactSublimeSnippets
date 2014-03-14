@@ -7,5 +7,5 @@ React.renderComponent(
 </content>
     <tabTrigger>ren</tabTrigger>
     <scope>source.js</scope>
-    <description>React createClass</description>
+    <description>React renderComponent</description>
 </snippet>
