@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 React.renderComponent(
-	${1:Component}(),
+	${1:Component}($2),
 	document.getElementById('$0'))
 ]]>
 </content>
