@@ -5,42 +5,43 @@ Trigger | Result
 :------- | :-------
 **rec** | React createClass template
 **mix** | React mixins
+**unm** | React unmountComponent at node
 **cd** | React componentDidMount
 **cw** | React componentWillMount
-**cdu** | React componentDidUpdate
-**unm** | React unmountComponent at node
 **cwu** | React componentWillUnmount
-**cwr** | React componentWillReceiveProps
-**scu** | React shouldComponentUpdate
+**cdu** | React componentDidUpdate
 **cwup** | React componentWillUpdate
+**scu** | React shouldComponentUpdate
+**cwr** | React componentWillReceiveProps
 **gd** | React getDefaultProps
-**gdn** | React getDOMNode
-**jsx** | React JSX
 **gi** | React getInitialState
+**jsx** | React JSX
+**gdn** | React getDOMNode
 **jsx:src** | React JSX script src
 **jsxt** | React JSX script type
-**rp** | React.PropTypes
 **pt** | propTypes
 **rpa** | React.PropTypes.array
+**rp** | React.PropTypes
 **rpao** | React.PropTypes.arrayOf
-**rpc** | React.PropTypes.component
 **rpb** | React.PropTypes.boolean
+**rpc** | React.PropTypes.component
+**rpi** | React.PropTypes.instanceOf
 **rpf** | React.PropTypes.func
 **rpn** | React.PropTypes.number
-**rpi** | React.PropTypes.instanceOf
-**rpobj** | React.PropTypes.object
 **rpot** | React.PropTypes.oneOfType
-**rpsh** | React.PropTypes.shape
 **rpo** | React.PropTypes.oneOf
-**rps** | React.PropTypes.string
+**rpobj** | React.PropTypes.object
+**rpsh** | React.PropTypes.shape
 **raCS** | React.addons.classSet
+**rps** | React.PropTypes.string
 **raCSS** | React.addons.CSSTransitionGroup
-**raL** | React.addons.LinkedStateMixin
 **thisl** | this.linkState
-**vl** | valueLink
 **ren** | React renderComponent
+**raL** | React.addons.LinkedStateMixin
+**vl** | valueLink
+**rren** | React renderComponent with React.DOM
 **ss** | React this.setState
-**sp** | React this.setProps
 **thisp** | React this.props
-**thiss** | React this.state
+**sp** | React this.setProps
 **thisr** | React this.refs
+**thiss** | React this.state
