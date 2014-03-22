@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.footer($0)
+]]>
+</content>
+<tabTrigger>Rfooter</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.footer</description>
+</snippet>

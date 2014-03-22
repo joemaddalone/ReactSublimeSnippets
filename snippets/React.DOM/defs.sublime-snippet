@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.defs($0)
+]]>
+</content>
+<tabTrigger>Rdefs</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.defs</description>
+</snippet>

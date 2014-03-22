@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.video($0)
+]]>
+</content>
+<tabTrigger>Rvideo</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.video</description>
+</snippet>

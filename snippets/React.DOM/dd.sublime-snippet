@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.dd($0)
+]]>
+</content>
+<tabTrigger>Rdd</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.dd</description>
+</snippet>

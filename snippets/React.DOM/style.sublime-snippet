@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.style($0)
+]]>
+</content>
+<tabTrigger>Rstyle</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.style</description>
+</snippet>

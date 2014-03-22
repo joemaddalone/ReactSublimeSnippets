@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.colgroup($0)
+]]>
+</content>
+<tabTrigger>Rcolgroup</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.colgroup</description>
+</snippet>

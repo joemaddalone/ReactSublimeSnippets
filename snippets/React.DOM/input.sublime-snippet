@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.input($0)
+]]>
+</content>
+<tabTrigger>Rinput</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.input</description>
+</snippet>

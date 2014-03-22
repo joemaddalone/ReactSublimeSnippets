@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.menu($0)
+]]>
+</content>
+<tabTrigger>Rmenu</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.menu</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.track($0)
+]]>
+</content>
+<tabTrigger>Rtrack</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.track</description>
+</snippet>

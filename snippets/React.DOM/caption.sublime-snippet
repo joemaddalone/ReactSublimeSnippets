@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.caption($0)
+]]>
+</content>
+<tabTrigger>Rcaption</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.caption</description>
+</snippet>

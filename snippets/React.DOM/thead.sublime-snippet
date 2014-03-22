@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.thead($0)
+]]>
+</content>
+<tabTrigger>Rthead</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.thead</description>
+</snippet>

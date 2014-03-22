@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.audio($0)
+]]>
+</content>
+<tabTrigger>Raudio</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.audio</description>
+</snippet>

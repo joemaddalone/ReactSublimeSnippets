@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.label($0)
+]]>
+</content>
+<tabTrigger>Rlabel</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.label</description>
+</snippet>

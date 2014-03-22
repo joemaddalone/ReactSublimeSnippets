@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.blockquote($0)
+]]>
+</content>
+<tabTrigger>Rblockquote</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.blockquote</description>
+</snippet>

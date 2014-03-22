@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.ins($0)
+]]>
+</content>
+<tabTrigger>Rins</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.ins</description>
+</snippet>

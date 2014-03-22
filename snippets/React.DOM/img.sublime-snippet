@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.img($0)
+]]>
+</content>
+<tabTrigger>Rimg</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.img</description>
+</snippet>

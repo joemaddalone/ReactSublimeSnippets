@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.nav($0)
+]]>
+</content>
+<tabTrigger>Rnav</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.nav</description>
+</snippet>

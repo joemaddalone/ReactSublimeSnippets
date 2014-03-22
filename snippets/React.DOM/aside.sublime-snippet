@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.aside($0)
+]]>
+</content>
+<tabTrigger>Raside</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.aside</description>
+</snippet>

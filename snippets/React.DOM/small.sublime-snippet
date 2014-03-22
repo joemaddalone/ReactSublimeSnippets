@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.small($0)
+]]>
+</content>
+<tabTrigger>Rsmall</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.small</description>
+</snippet>

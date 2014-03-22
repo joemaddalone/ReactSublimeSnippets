@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.figure($0)
+]]>
+</content>
+<tabTrigger>Rfigure</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.figure</description>
+</snippet>

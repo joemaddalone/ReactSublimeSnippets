@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.ol($0)
+]]>
+</content>
+<tabTrigger>Rol</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.ol</description>
+</snippet>

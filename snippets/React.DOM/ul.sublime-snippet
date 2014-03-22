@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.ul($0)
+]]>
+</content>
+<tabTrigger>Rul</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.ul</description>
+</snippet>

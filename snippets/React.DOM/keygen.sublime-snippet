@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.keygen($0)
+]]>
+</content>
+<tabTrigger>Rkeygen</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.keygen</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.datalist($0)
+]]>
+</content>
+<tabTrigger>Rdatalist</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.datalist</description>
+</snippet>

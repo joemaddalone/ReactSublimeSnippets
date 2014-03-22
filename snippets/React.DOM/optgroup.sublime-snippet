@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.optgroup($0)
+]]>
+</content>
+<tabTrigger>Roptgroup</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.optgroup</description>
+</snippet>

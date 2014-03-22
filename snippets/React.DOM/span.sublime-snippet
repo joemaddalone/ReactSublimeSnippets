@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.span($0)
+]]>
+</content>
+<tabTrigger>Rspan</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.span</description>
+</snippet>

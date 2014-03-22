@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.dl($0)
+]]>
+</content>
+<tabTrigger>Rdl</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.dl</description>
+</snippet>

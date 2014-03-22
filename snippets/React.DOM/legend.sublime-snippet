@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.legend($0)
+]]>
+</content>
+<tabTrigger>Rlegend</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.legend</description>
+</snippet>

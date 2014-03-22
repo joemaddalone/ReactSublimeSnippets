@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.noscript($0)
+]]>
+</content>
+<tabTrigger>Rnoscript</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.noscript</description>
+</snippet>

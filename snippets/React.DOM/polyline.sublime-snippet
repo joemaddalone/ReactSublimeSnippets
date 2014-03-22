@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.polyline($0)
+]]>
+</content>
+<tabTrigger>Rpolyline</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.polyline</description>
+</snippet>

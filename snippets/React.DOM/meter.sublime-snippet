@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.meter($0)
+]]>
+</content>
+<tabTrigger>Rmeter</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.meter</description>
+</snippet>

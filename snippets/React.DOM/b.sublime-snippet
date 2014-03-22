@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.b($0)
+]]>
+</content>
+<tabTrigger>Rb</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.b</description>
+</snippet>

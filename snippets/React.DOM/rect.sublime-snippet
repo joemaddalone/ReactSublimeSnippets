@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.rect($0)
+]]>
+</content>
+<tabTrigger>Rrect</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.rect</description>
+</snippet>

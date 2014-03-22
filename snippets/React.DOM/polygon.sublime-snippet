@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.polygon($0)
+]]>
+</content>
+<tabTrigger>Rpolygon</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.polygon</description>
+</snippet>

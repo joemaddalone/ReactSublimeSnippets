@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.progress($0)
+]]>
+</content>
+<tabTrigger>Rprogress</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.progress</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.h5($0)
+]]>
+</content>
+<tabTrigger>Rh5</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.h5</description>
+</snippet>

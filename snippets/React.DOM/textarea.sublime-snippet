@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.textarea($0)
+]]>
+</content>
+<tabTrigger>Rtextarea</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.textarea</description>
+</snippet>

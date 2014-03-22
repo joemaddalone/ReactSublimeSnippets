@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.big($0)
+]]>
+</content>
+<tabTrigger>Rbig</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.big</description>
+</snippet>

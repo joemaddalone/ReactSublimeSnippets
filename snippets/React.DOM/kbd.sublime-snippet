@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.kbd($0)
+]]>
+</content>
+<tabTrigger>Rkbd</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.kbd</description>
+</snippet>

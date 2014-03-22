@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.stop($0)
+]]>
+</content>
+<tabTrigger>Rstop</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.stop</description>
+</snippet>

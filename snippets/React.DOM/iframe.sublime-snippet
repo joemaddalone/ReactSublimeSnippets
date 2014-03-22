@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.iframe($0)
+]]>
+</content>
+<tabTrigger>Riframe</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.iframe</description>
+</snippet>

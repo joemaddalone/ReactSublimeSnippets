@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.details($0)
+]]>
+</content>
+<tabTrigger>Rdetails</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.details</description>
+</snippet>

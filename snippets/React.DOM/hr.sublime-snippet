@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+React.DOM.hr($0)
+]]>
+</content>
+<tabTrigger>Rhr</tabTrigger>
+<scope>source.js</scope>
+<description>React.DOM.hr</description>
+</snippet>
