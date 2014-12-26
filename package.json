@@ -3,11 +3,18 @@
   "version": "0.0.0",
   "description": "ReactSnippets build process",
   "main": "DocGen.js",
+  "scripts": {
+    "DOM": "node ReactDOMGen",
+    "compile": "compilesnippets --d 'snippets' --md 'README' --p 'ReactSnippets'",
+    "start": "npm run DOM && npm run compile"
+  },
   "dependencies": {
     "xml2js": "~0.4.1",
     "easy-zip": "0.0.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "compilesnippets": "0.0.3"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/joemaddalone/ReactSublimeSnippets.git"
