@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[React.PropTypes.element$0]]>
+</content>
+    <tabTrigger>rpe</tabTrigger>
+    <scope>source.js</scope>
+    <description>React.PropTypes.element</description>
+</snippet>
