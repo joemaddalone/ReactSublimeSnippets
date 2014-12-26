@@ -1,43 +1,21 @@
 React Snippets for Sublime Text
 =================================
----------------------
-Trigger | Result
+Trigger | Description
 :------- | :-------
-**rec** | React createClass template
-**cw** | React componentWillMount
-**mix** | React mixins
-**unm** | React unmountComponent at node
-**cd** | React componentDidMount
-**cwu** | React componentWillUnmount
-**cdu** | React componentDidUpdate
-**cwr** | React componentWillReceiveProps
-**cwup** | React componentWillUpdate
-**scu** | React shouldComponentUpdate
-**gdn** | React getDOMNode
-**gd** | React getDefaultProps
-**jsx** | React JSX
-**gi** | React getInitialState
-**jsx:src** | React JSX script src
-**jsxt** | React JSX script type
 **pt** | propTypes
 **rp** | React.PropTypes
 **rpa** | React.PropTypes.array
 **rpao** | React.PropTypes.arrayOf
 **rpb** | React.PropTypes.boolean
-**rpc** | React.PropTypes.component
+**rpe** | React.PropTypes.element
 **rpf** | React.PropTypes.func
 **rpi** | React.PropTypes.instanceOf
 **rpn** | React.PropTypes.number
 **rpobj** | React.PropTypes.object
-**rpot** | React.PropTypes.oneOfType
 **rpo** | React.PropTypes.oneOf
+**rpot** | React.PropTypes.oneOfType
 **rpsh** | React.PropTypes.shape
 **rps** | React.PropTypes.string
-**raCS** | React.addons.classSet
-**raCSS** | React.addons.CSSTransitionGroup
-**raL** | React.addons.LinkedStateMixin
-**thisl** | this.linkState
-**vl** | valueLink
 **Ra** | React.DOM.a
 **Rabbr** | React.DOM.abbr
 **Raddress** | React.DOM.address
@@ -47,16 +25,16 @@ Trigger | Result
 **Raudio** | React.DOM.audio
 **Rb** | React.DOM.b
 **Rbase** | React.DOM.base
-**Rbdo** | React.DOM.bdo
 **Rbdi** | React.DOM.bdi
+**Rbdo** | React.DOM.bdo
 **Rbig** | React.DOM.big
 **Rblockquote** | React.DOM.blockquote
 **Rbody** | React.DOM.body
 **Rbr** | React.DOM.br
 **Rbutton** | React.DOM.button
 **Rcanvas** | React.DOM.canvas
-**Rcaption** | React.DOM.caption
 **Rcircle** | React.DOM.circle
+**Rcaption** | React.DOM.caption
 **Rcite** | React.DOM.cite
 **Rcode** | React.DOM.code
 **Rcol** | React.DOM.col
@@ -64,12 +42,12 @@ Trigger | Result
 **Rdata** | React.DOM.data
 **Rdatalist** | React.DOM.datalist
 **Rdd** | React.DOM.dd
+**Rdefs** | React.DOM.defs
 **Rdel** | React.DOM.del
 **Rdetails** | React.DOM.details
-**Rdefs** | React.DOM.defs
+**Rdfn** | React.DOM.dfn
 **Rdiv** | React.DOM.div
 **Rdl** | React.DOM.dl
-**Rdfn** | React.DOM.dfn
 **Rdt** | React.DOM.dt
 **Rem** | React.DOM.em
 **Rembed** | React.DOM.embed
@@ -108,16 +86,16 @@ Trigger | Result
 **Rmenu** | React.DOM.menu
 **Rmenuitem** | React.DOM.menuitem
 **Rmeta** | React.DOM.meta
-**Rnav** | React.DOM.nav
 **Rmeter** | React.DOM.meter
+**Rnav** | React.DOM.nav
 **Rnoscript** | React.DOM.noscript
 **Robject** | React.DOM.object
 **Rol** | React.DOM.ol
 **Roptgroup** | React.DOM.optgroup
-**Routput** | React.DOM.output
 **Roption** | React.DOM.option
-**Rparam** | React.DOM.param
+**Routput** | React.DOM.output
 **Rp** | React.DOM.p
+**Rparam** | React.DOM.param
 **Rpath** | React.DOM.path
 **Rpolygon** | React.DOM.polygon
 **Rpolyline** | React.DOM.polyline
@@ -126,11 +104,11 @@ Trigger | Result
 **Rq** | React.DOM.q
 **RradialGradient** | React.DOM.radialGradient
 **Rrect** | React.DOM.rect
-**Rrt** | React.DOM.rt
 **Rrp** | React.DOM.rp
+**Rrt** | React.DOM.rt
 **Rruby** | React.DOM.ruby
-**Rsamp** | React.DOM.samp
 **Rs** | React.DOM.s
+**Rsamp** | React.DOM.samp
 **Rscript** | React.DOM.script
 **Rsection** | React.DOM.section
 **Rselect** | React.DOM.select
@@ -139,19 +117,19 @@ Trigger | Result
 **Rspan** | React.DOM.span
 **Rstop** | React.DOM.stop
 **Rstrong** | React.DOM.strong
-**Rsub** | React.DOM.sub
 **Rstyle** | React.DOM.style
 **Rsummary** | React.DOM.summary
 **Rsup** | React.DOM.sup
-**Rtable** | React.DOM.table
+**Rsub** | React.DOM.sub
 **Rsvg** | React.DOM.svg
-**Rtd** | React.DOM.td
+**Rtable** | React.DOM.table
 **Rtbody** | React.DOM.tbody
+**Rtd** | React.DOM.td
 **Rtext** | React.DOM.text
 **Rtextarea** | React.DOM.textarea
 **Rth** | React.DOM.th
-**Rthead** | React.DOM.thead
 **Rtfoot** | React.DOM.tfoot
+**Rthead** | React.DOM.thead
 **Rtime** | React.DOM.time
 **Rtitle** | React.DOM.title
 **Rtr** | React.DOM.tr
@@ -160,8 +138,29 @@ Trigger | Result
 **Rul** | React.DOM.ul
 **Rvideo** | React.DOM.video
 **Rwbr** | React.DOM.wbr
-**ren** | React renderComponent
-**rren** | React renderComponent with React.DOM
+**raCSS** | React.addons.CSSTransitionGroup
+**raL** | React.addons.LinkedStateMixin
+**raCS** | React.addons.classSet
+**thisl** | this.linkState
+**vl** | valueLink
+**rec** | React createClass template
+**mix** | React mixins
+**cd** | React componentDidMount
+**cw** | React componentWillMount
+**cwu** | React componentWillUnmount
+**unm** | React unmountComponent at node
+**cdu** | React componentDidUpdate
+**cwr** | React componentWillReceiveProps
+**cwup** | React componentWillUpdate
+**scu** | React shouldComponentUpdate
+**gdn** | React getDOMNode
+**gd** | React getDefaultProps
+**gi** | React getInitialState
+**jsx** | React JSX
+**jsx:src** | React JSX script src
+**jsxt** | React JSX script type
+**ren** | React.render
+**rren** | React render with React.DOM
 **sp** | React this.setProps
 **ss** | React this.setState
 **thisp** | React this.props
