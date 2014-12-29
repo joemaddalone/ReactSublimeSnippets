@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-React.addons.CSSTransitionGroup
+var $0 = React.addons.CSSTransitionGroup
 ]]>
 </content>
     <tabTrigger>raCSS</tabTrigger>

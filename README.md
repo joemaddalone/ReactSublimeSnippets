@@ -1,4 +1,4 @@
-React Snippets for Sublime Text
+Snippets for Sublime Text
 =================================
 Trigger | Description
 :------- | :-------
@@ -33,9 +33,9 @@ Trigger | Description
 **Rbr** | React.DOM.br
 **Rbutton** | React.DOM.button
 **Rcanvas** | React.DOM.canvas
-**Rcircle** | React.DOM.circle
 **Rcaption** | React.DOM.caption
 **Rcite** | React.DOM.cite
+**Rcircle** | React.DOM.circle
 **Rcode** | React.DOM.code
 **Rcol** | React.DOM.col
 **Rcolgroup** | React.DOM.colgroup
@@ -87,8 +87,8 @@ Trigger | Description
 **Rmenuitem** | React.DOM.menuitem
 **Rmeta** | React.DOM.meta
 **Rmeter** | React.DOM.meter
-**Rnav** | React.DOM.nav
 **Rnoscript** | React.DOM.noscript
+**Rnav** | React.DOM.nav
 **Robject** | React.DOM.object
 **Rol** | React.DOM.ol
 **Roptgroup** | React.DOM.optgroup
@@ -118,17 +118,17 @@ Trigger | Description
 **Rstop** | React.DOM.stop
 **Rstrong** | React.DOM.strong
 **Rstyle** | React.DOM.style
+**Rsub** | React.DOM.sub
 **Rsummary** | React.DOM.summary
 **Rsup** | React.DOM.sup
-**Rsub** | React.DOM.sub
 **Rsvg** | React.DOM.svg
 **Rtable** | React.DOM.table
 **Rtbody** | React.DOM.tbody
 **Rtd** | React.DOM.td
 **Rtext** | React.DOM.text
 **Rtextarea** | React.DOM.textarea
-**Rth** | React.DOM.th
 **Rtfoot** | React.DOM.tfoot
+**Rth** | React.DOM.th
 **Rthead** | React.DOM.thead
 **Rtime** | React.DOM.time
 **Rtitle** | React.DOM.title
@@ -143,6 +143,7 @@ Trigger | Description
 **raCS** | React.addons.classSet
 **thisl** | this.linkState
 **vl** | valueLink
+**tn** | React.addons.CSSTransitionGroup.transitionName
 **rec** | React createClass template
 **mix** | React mixins
 **cd** | React componentDidMount
@@ -157,8 +158,8 @@ Trigger | Description
 **gd** | React getDefaultProps
 **gi** | React getInitialState
 **jsx** | React JSX
-**jsx:src** | React JSX script src
 **jsxt** | React JSX script type
+**jsx:src** | React JSX script src
 **ren** | React.render
 **rren** | React render with React.DOM
 **sp** | React this.setProps
