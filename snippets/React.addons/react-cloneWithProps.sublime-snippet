@@ -5,6 +5,6 @@ React.addons.cloneWithProps($1,{
 });
 ]]>
 </content>
-    <tabTrigger>cwp</tabTrigger>
+    <tabTrigger>rclone</tabTrigger>
     <description>React.addons.cloneWithProps</description>
 </snippet>

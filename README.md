@@ -11,9 +11,9 @@ Trigger | Description
 **rpf** | React.PropTypes.func
 **rpi** | React.PropTypes.instanceOf
 **rpn** | React.PropTypes.number
-**rpobj** | React.PropTypes.object
 **rpo** | React.PropTypes.oneOf
 **rpot** | React.PropTypes.oneOfType
+**rpobj** | React.PropTypes.object
 **rpsh** | React.PropTypes.shape
 **rps** | React.PropTypes.string
 **Ra** | React.DOM.a
@@ -21,21 +21,21 @@ Trigger | Description
 **Raddress** | React.DOM.address
 **Rarea** | React.DOM.area
 **Rarticle** | React.DOM.article
-**Raside** | React.DOM.aside
 **Raudio** | React.DOM.audio
+**Raside** | React.DOM.aside
 **Rb** | React.DOM.b
 **Rbase** | React.DOM.base
 **Rbdi** | React.DOM.bdi
 **Rbdo** | React.DOM.bdo
 **Rbig** | React.DOM.big
 **Rblockquote** | React.DOM.blockquote
-**Rbody** | React.DOM.body
 **Rbr** | React.DOM.br
+**Rbody** | React.DOM.body
 **Rbutton** | React.DOM.button
 **Rcanvas** | React.DOM.canvas
 **Rcaption** | React.DOM.caption
-**Rcite** | React.DOM.cite
 **Rcircle** | React.DOM.circle
+**Rcite** | React.DOM.cite
 **Rcode** | React.DOM.code
 **Rcol** | React.DOM.col
 **Rcolgroup** | React.DOM.colgroup
@@ -87,21 +87,21 @@ Trigger | Description
 **Rmenuitem** | React.DOM.menuitem
 **Rmeta** | React.DOM.meta
 **Rmeter** | React.DOM.meter
-**Rnoscript** | React.DOM.noscript
 **Rnav** | React.DOM.nav
+**Rnoscript** | React.DOM.noscript
 **Robject** | React.DOM.object
 **Rol** | React.DOM.ol
 **Roptgroup** | React.DOM.optgroup
-**Roption** | React.DOM.option
 **Routput** | React.DOM.output
+**Roption** | React.DOM.option
 **Rp** | React.DOM.p
 **Rparam** | React.DOM.param
 **Rpath** | React.DOM.path
 **Rpolygon** | React.DOM.polygon
 **Rpolyline** | React.DOM.polyline
 **Rpre** | React.DOM.pre
-**Rprogress** | React.DOM.progress
 **Rq** | React.DOM.q
+**Rprogress** | React.DOM.progress
 **RradialGradient** | React.DOM.radialGradient
 **Rrect** | React.DOM.rect
 **Rrp** | React.DOM.rp
@@ -110,8 +110,8 @@ Trigger | Description
 **Rs** | React.DOM.s
 **Rsamp** | React.DOM.samp
 **Rscript** | React.DOM.script
-**Rsection** | React.DOM.section
 **Rselect** | React.DOM.select
+**Rsection** | React.DOM.section
 **Rsmall** | React.DOM.small
 **Rsource** | React.DOM.source
 **Rspan** | React.DOM.span
@@ -133,16 +133,17 @@ Trigger | Description
 **Rtime** | React.DOM.time
 **Rtitle** | React.DOM.title
 **Rtr** | React.DOM.tr
-**Rtrack** | React.DOM.track
 **Ru** | React.DOM.u
+**Rtrack** | React.DOM.track
 **Rul** | React.DOM.ul
 **Rvideo** | React.DOM.video
 **Rwbr** | React.DOM.wbr
 **raCSS** | React.addons.CSSTransitionGroup
 **raL** | React.addons.LinkedStateMixin
 **raCS** | React.addons.classSet
-**thisl** | this.linkState
+**cwp** | React.addons.cloneWithProps
 **vl** | valueLink
+**thisl** | this.linkState
 **tn** | React.addons.CSSTransitionGroup.transitionName
 **rec** | React createClass template
 **mix** | React mixins
@@ -158,8 +159,8 @@ Trigger | Description
 **gd** | React getDefaultProps
 **gi** | React getInitialState
 **jsx** | React JSX
-**jsxt** | React JSX script type
 **jsx:src** | React JSX script src
+**jsxt** | React JSX script type
 **ren** | React.render
 **rren** | React render with React.DOM
 **sp** | React this.setProps
