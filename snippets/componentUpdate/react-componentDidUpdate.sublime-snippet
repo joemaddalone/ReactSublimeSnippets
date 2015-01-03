@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-componentDidUpdate: function(prevProps, prevState, rootNode) {
+componentDidUpdate: function(prevProps, prevState) {
   $0
 },]]>
 </content>
