@@ -42,8 +42,8 @@ Trigger | Description
 **Rdata** | React.DOM.data
 **Rdatalist** | React.DOM.datalist
 **Rdd** | React.DOM.dd
-**Rdefs** | React.DOM.defs
 **Rdel** | React.DOM.del
+**Rdefs** | React.DOM.defs
 **Rdetails** | React.DOM.details
 **Rdfn** | React.DOM.dfn
 **Rdiv** | React.DOM.div
@@ -69,9 +69,9 @@ Trigger | Description
 **Rhtml** | React.DOM.html
 **Ri** | React.DOM.i
 **Riframe** | React.DOM.iframe
-**Rimg** | React.DOM.img
 **Rinput** | React.DOM.input
 **Rins** | React.DOM.ins
+**Rimg** | React.DOM.img
 **Rkbd** | React.DOM.kbd
 **Rkeygen** | React.DOM.keygen
 **Rlabel** | React.DOM.label
@@ -92,10 +92,10 @@ Trigger | Description
 **Robject** | React.DOM.object
 **Rol** | React.DOM.ol
 **Roptgroup** | React.DOM.optgroup
-**Roption** | React.DOM.option
 **Routput** | React.DOM.output
-**Rparam** | React.DOM.param
+**Roption** | React.DOM.option
 **Rp** | React.DOM.p
+**Rparam** | React.DOM.param
 **Rpath** | React.DOM.path
 **Rpolygon** | React.DOM.polygon
 **Rpolyline** | React.DOM.polyline
@@ -107,8 +107,8 @@ Trigger | Description
 **Rrp** | React.DOM.rp
 **Rrt** | React.DOM.rt
 **Rruby** | React.DOM.ruby
-**Rs** | React.DOM.s
 **Rsamp** | React.DOM.samp
+**Rs** | React.DOM.s
 **Rscript** | React.DOM.script
 **Rsection** | React.DOM.section
 **Rselect** | React.DOM.select
@@ -131,8 +131,8 @@ Trigger | Description
 **Rth** | React.DOM.th
 **Rthead** | React.DOM.thead
 **Rtime** | React.DOM.time
-**Rtitle** | React.DOM.title
 **Rtr** | React.DOM.tr
+**Rtitle** | React.DOM.title
 **Rtrack** | React.DOM.track
 **Ru** | React.DOM.u
 **Rul** | React.DOM.ul
@@ -166,6 +166,6 @@ Trigger | Description
 **sp** | React this.setProps
 **ss** | React this.setState
 **thisp** | React this.props
+**thisr** | React this.refs
 **thiss** | React this.state
 **thistr** | React this.transferPropsTo
-**thisr** | React this.refs

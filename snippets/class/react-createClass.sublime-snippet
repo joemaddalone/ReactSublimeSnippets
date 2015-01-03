@@ -1,11 +1,10 @@
 <snippet>
     <content><![CDATA[
-var $1 = 
-	React.createClass({
-		render:function(){
-			return $0
-		}
-	});
+var $1 = React.createClass({
+  render:function(){
+    return $0
+  }
+});
 ]]>
 </content>
     <tabTrigger>rec</tabTrigger>
