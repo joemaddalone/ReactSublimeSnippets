@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-React.render(<${1:Component} />,document.getElementById('$0'));
+React.render(<${1:Component} />, document.$0);
 ]]>
 </content>
     <tabTrigger>ren</tabTrigger>

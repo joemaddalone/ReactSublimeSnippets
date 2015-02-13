@@ -123,8 +123,8 @@ Trigger | Description
 **Rsup** | React.DOM.sup
 **Rsvg** | React.DOM.svg
 **Rtable** | React.DOM.table
-**Rtbody** | React.DOM.tbody
 **Rtd** | React.DOM.td
+**Rtbody** | React.DOM.tbody
 **Rtext** | React.DOM.text
 **Rtextarea** | React.DOM.textarea
 **Rtfoot** | React.DOM.tfoot
@@ -155,6 +155,10 @@ Trigger | Description
 **cwr** | React componentWillReceiveProps
 **cwup** | React componentWillUpdate
 **scu** | React shouldComponentUpdate
+**ctt** | React ChildContextTypes
+**cty** | React contextTypes
+**gc** | React getChildContext
+**rwc** | React withContext
 **gdn** | React getDOMNode
 **gd** | React getDefaultProps
 **gi** | React getInitialState
@@ -165,6 +169,7 @@ Trigger | Description
 **rren** | React render with React.DOM
 **sp** | React this.setProps
 **ss** | React this.setState
+**thisc** | React this.context
 **thisp** | React this.props
 **thisr** | React this.refs
 **thiss** | React this.state

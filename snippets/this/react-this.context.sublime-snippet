@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[this.context.$0]]>
+</content>
+    <tabTrigger>thisc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React this.context</description>
+</snippet>

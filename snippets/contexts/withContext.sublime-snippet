@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+React.withContext({$1}, function(){
+  React.render(<${2:Component} />, document.$0);
+})
+]]>
+</content>
+    <tabTrigger>rwc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React withContext</description>
+</snippet>

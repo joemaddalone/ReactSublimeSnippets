@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+getChildContext:function(){
+  return {
+    $1
+  }
+},]]>
+</content>
+    <tabTrigger>gc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React getChildContext</description>
+</snippet>
