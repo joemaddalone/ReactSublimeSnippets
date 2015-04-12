@@ -7,7 +7,7 @@ class $1 extends React.Component (
 )
 ]]>
 </content>
-    <tabTrigger>-rec</tabTrigger>
+    <tabTrigger>6rec</tabTrigger>
     <scope>source.js</scope>
     <description>ES6 React.Component class</description>
 </snippet>

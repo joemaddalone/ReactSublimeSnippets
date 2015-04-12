@@ -4,7 +4,7 @@ shouldComponentUpdate(nextProps, nextState) {
   return ;
 }]]>
 </content>
-    <tabTrigger>-scu</tabTrigger>
+    <tabTrigger>6scu</tabTrigger>
     <scope>source.js</scope>
     <description>ES6 React shouldComponentUpdate</description>
 </snippet>

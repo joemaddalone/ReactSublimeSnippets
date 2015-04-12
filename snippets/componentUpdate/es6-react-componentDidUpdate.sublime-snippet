@@ -4,7 +4,7 @@ componentDidUpdate(prevProps, prevState) {
   $0
 }]]>
 </content>
-    <tabTrigger>-cdu</tabTrigger>
+    <tabTrigger>6cdu</tabTrigger>
     <scope>source.js</scope>
     <description>ES6 React componentDidUpdate</description>
 </snippet>

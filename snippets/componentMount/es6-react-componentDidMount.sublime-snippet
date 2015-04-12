@@ -5,7 +5,7 @@ componentDidMount(){
 }
 ]]>
 </content>
-    <tabTrigger>-cd</tabTrigger>
+    <tabTrigger>6cd</tabTrigger>
     <scope>source.js</scope>
     <description>ES6 React componentDidMount</description>
 </snippet>

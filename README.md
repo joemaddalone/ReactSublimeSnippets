@@ -14,8 +14,8 @@ Trigger | Description
 **rpobj** | React.PropTypes.object
 **rpo** | React.PropTypes.oneOf
 **rpot** | React.PropTypes.oneOfType
-**rps** | React.PropTypes.string
 **rpsh** | React.PropTypes.shape
+**rps** | React.PropTypes.string
 **Ra** | React.DOM.a
 **Rabbr** | React.DOM.abbr
 **Raddress** | React.DOM.address
@@ -38,15 +38,15 @@ Trigger | Description
 **Rcite** | React.DOM.cite
 **Rcode** | React.DOM.code
 **Rcol** | React.DOM.col
-**Rdata** | React.DOM.data
 **Rcolgroup** | React.DOM.colgroup
+**Rdata** | React.DOM.data
 **Rdatalist** | React.DOM.datalist
 **Rdd** | React.DOM.dd
 **Rdefs** | React.DOM.defs
 **Rdel** | React.DOM.del
 **Rdetails** | React.DOM.details
-**Rdfn** | React.DOM.dfn
 **Rdiv** | React.DOM.div
+**Rdfn** | React.DOM.dfn
 **Rdl** | React.DOM.dl
 **Rdt** | React.DOM.dt
 **Rem** | React.DOM.em
@@ -128,8 +128,8 @@ Trigger | Description
 **Rtext** | React.DOM.text
 **Rtextarea** | React.DOM.textarea
 **Rtfoot** | React.DOM.tfoot
-**Rth** | React.DOM.th
 **Rthead** | React.DOM.thead
+**Rth** | React.DOM.th
 **Rtime** | React.DOM.time
 **Rtitle** | React.DOM.title
 **Rtr** | React.DOM.tr
@@ -141,24 +141,24 @@ Trigger | Description
 **raCSS** | React.addons.CSSTransitionGroup
 **raL** | React.addons.LinkedStateMixin
 **raCS** | React.addons.classSet
-**rclone** | React.addons.cloneWithProps
 **thisl** | this.linkState
+**rclone** | React.addons.cloneWithProps
 **vl** | valueLink
 **tn** | React.addons.CSSTransitionGroup.transitionName
-**-rec** | ES6 React.Component class
-**rec** | React createClass template
+**6rec** | ES6 React.Component class
 **mix** | React mixins
-**-cd** | ES6 React componentDidMount
-**-cw** | ES6 React componentWillMount
-**-cwu** | React componentWillUnmount
+**rec** | React createClass template
+**6cd** | ES6 React componentDidMount
+**6cw** | ES6 React componentWillMount
+**6cwu** | React componentWillUnmount
 **cd** | React componentDidMount
 **cw** | React componentWillMount
 **cwu** | React componentWillUnmount
 **unm** | React unmountComponent at node
-**-cdu** | ES6 React componentDidUpdate
-**-cwr** | ES6 React componentWillReceiveProps
-**-cwup** | ES6 React componentWillUpdate
-**-scu** | ES6 React shouldComponentUpdate
+**6cdu** | ES6 React componentDidUpdate
+**6cwr** | ES6 React componentWillReceiveProps
+**6cwup** | ES6 React componentWillUpdate
+**6scu** | ES6 React shouldComponentUpdate
 **cdu** | React componentDidUpdate
 **cwr** | React componentWillReceiveProps
 **cwup** | React componentWillUpdate

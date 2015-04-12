@@ -4,7 +4,7 @@ componentWillUnmount(){
 	$0
 }]]>
 </content>
-    <tabTrigger>-cwu</tabTrigger>
+    <tabTrigger>6cwu</tabTrigger>
     <scope>source.js</scope>
     <description>React componentWillUnmount</description>
 </snippet>
