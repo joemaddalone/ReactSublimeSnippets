@@ -14,8 +14,8 @@ Trigger | Description
 **rpobj** | React.PropTypes.object
 **rpo** | React.PropTypes.oneOf
 **rpot** | React.PropTypes.oneOfType
-**rpsh** | React.PropTypes.shape
 **rps** | React.PropTypes.string
+**rpsh** | React.PropTypes.shape
 **Ra** | React.DOM.a
 **Rabbr** | React.DOM.abbr
 **Raddress** | React.DOM.address
@@ -38,8 +38,8 @@ Trigger | Description
 **Rcite** | React.DOM.cite
 **Rcode** | React.DOM.code
 **Rcol** | React.DOM.col
-**Rcolgroup** | React.DOM.colgroup
 **Rdata** | React.DOM.data
+**Rcolgroup** | React.DOM.colgroup
 **Rdatalist** | React.DOM.datalist
 **Rdd** | React.DOM.dd
 **Rdefs** | React.DOM.defs
@@ -123,8 +123,8 @@ Trigger | Description
 **Rsup** | React.DOM.sup
 **Rsvg** | React.DOM.svg
 **Rtable** | React.DOM.table
-**Rtd** | React.DOM.td
 **Rtbody** | React.DOM.tbody
+**Rtd** | React.DOM.td
 **Rtext** | React.DOM.text
 **Rtextarea** | React.DOM.textarea
 **Rtfoot** | React.DOM.tfoot
@@ -145,12 +145,20 @@ Trigger | Description
 **thisl** | this.linkState
 **vl** | valueLink
 **tn** | React.addons.CSSTransitionGroup.transitionName
+**-rec** | ES6 React.Component class
 **rec** | React createClass template
 **mix** | React mixins
+**-cd** | ES6 React componentDidMount
+**-cw** | ES6 React componentWillMount
+**-cwu** | React componentWillUnmount
 **cd** | React componentDidMount
 **cw** | React componentWillMount
 **cwu** | React componentWillUnmount
 **unm** | React unmountComponent at node
+**-cdu** | ES6 React componentDidUpdate
+**-cwr** | ES6 React componentWillReceiveProps
+**-cwup** | ES6 React componentWillUpdate
+**-scu** | ES6 React shouldComponentUpdate
 **cdu** | React componentDidUpdate
 **cwr** | React componentWillReceiveProps
 **cwup** | React componentWillUpdate

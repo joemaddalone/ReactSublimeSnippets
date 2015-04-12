@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+componentWillMount(){
+	$0
+}]]>
+</content>
+    <tabTrigger>-cw</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 React componentWillMount</description>
+</snippet>

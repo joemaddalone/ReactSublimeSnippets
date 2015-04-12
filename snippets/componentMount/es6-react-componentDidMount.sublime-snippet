@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+componentDidMount(){
+	$0
+}
+]]>
+</content>
+    <tabTrigger>-cd</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 React componentDidMount</description>
+</snippet>
