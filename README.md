@@ -45,8 +45,8 @@ Trigger | Description
 **Rdefs** | React.DOM.defs
 **Rdel** | React.DOM.del
 **Rdetails** | React.DOM.details
-**Rdiv** | React.DOM.div
 **Rdfn** | React.DOM.dfn
+**Rdiv** | React.DOM.div
 **Rdl** | React.DOM.dl
 **Rdt** | React.DOM.dt
 **Rem** | React.DOM.em
@@ -128,8 +128,8 @@ Trigger | Description
 **Rtext** | React.DOM.text
 **Rtextarea** | React.DOM.textarea
 **Rtfoot** | React.DOM.tfoot
-**Rthead** | React.DOM.thead
 **Rth** | React.DOM.th
+**Rthead** | React.DOM.thead
 **Rtime** | React.DOM.time
 **Rtitle** | React.DOM.title
 **Rtr** | React.DOM.tr
@@ -141,13 +141,13 @@ Trigger | Description
 **raCSS** | React.addons.CSSTransitionGroup
 **raL** | React.addons.LinkedStateMixin
 **raCS** | React.addons.classSet
-**thisl** | this.linkState
 **rclone** | React.addons.cloneWithProps
+**thisl** | this.linkState
 **vl** | valueLink
 **tn** | React.addons.CSSTransitionGroup.transitionName
 **6rec** | ES6 React.Component class
-**mix** | React mixins
 **rec** | React createClass template
+**mix** | React mixins
 **6cd** | ES6 React componentDidMount
 **6cw** | ES6 React componentWillMount
 **6cwu** | React componentWillUnmount

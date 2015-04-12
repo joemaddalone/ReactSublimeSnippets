@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-class $1 extends React.Component (
+class $1 extends React.Component {
   render(){
     $0
   }
-)
+}
 ]]>
 </content>
     <tabTrigger>6rec</tabTrigger>
