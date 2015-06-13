@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-getDOMNode()
+React.findDOMNode($0)
 ]]>
 </content>
-    <tabTrigger>gdn</tabTrigger>
+    <tabTrigger>fdn</tabTrigger>
     <scope>source.js</scope>
-    <description>React getDOMNode</description>
+    <description>React.findDOMNode</description>
 </snippet>

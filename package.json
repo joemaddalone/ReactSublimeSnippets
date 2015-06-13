@@ -5,8 +5,9 @@
   "main": "DocGen.js",
   "scripts": {
     "DOM": "node ReactDOMGen",
+    "events": "node ReactEventsGen",
     "compile": "compilesnippets --d 'snippets' --md 'README' --p 'ReactSnippets'",
-    "start": "npm run DOM && npm run compile"
+    "start": "npm run DOM && npm run events && npm run compile"
   },
   "dependencies": {
     "xml2js": "~0.4.1",

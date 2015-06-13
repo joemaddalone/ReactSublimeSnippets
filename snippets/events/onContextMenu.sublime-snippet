@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onContextMenu$0
+]]>
+</content>
+<tabTrigger>oncm</tabTrigger>
+<scope>source.js</scope>
+<description>onContextMenu</description>
+</snippet>

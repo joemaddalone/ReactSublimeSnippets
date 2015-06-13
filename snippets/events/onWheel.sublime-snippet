@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onWheel$0
+]]>
+</content>
+<tabTrigger>onwh</tabTrigger>
+<scope>source.js</scope>
+<description>onWheel</description>
+</snippet>

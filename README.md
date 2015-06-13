@@ -2,183 +2,217 @@ Snippets for Sublime Text
 =================================
 Trigger | Description
 :------- | :-------
-**pt** | propTypes
 **rp** | React.PropTypes
-**rpa** | React.PropTypes.array
+**pt** | propTypes
 **rpao** | React.PropTypes.arrayOf
+**rpa** | React.PropTypes.array
 **rpb** | React.PropTypes.boolean
+**rpi** | React.PropTypes.instanceOf
 **rpe** | React.PropTypes.element
 **rpf** | React.PropTypes.func
-**rpi** | React.PropTypes.instanceOf
-**rpn** | React.PropTypes.number
-**rpobj** | React.PropTypes.object
 **rpo** | React.PropTypes.oneOf
+**rpobj** | React.PropTypes.object
+**rpn** | React.PropTypes.number
 **rpot** | React.PropTypes.oneOfType
-**rpsh** | React.PropTypes.shape
 **rps** | React.PropTypes.string
+**rpsh** | React.PropTypes.shape
 **Ra** | React.DOM.a
 **Rabbr** | React.DOM.abbr
 **Raddress** | React.DOM.address
-**Rarea** | React.DOM.area
 **Rarticle** | React.DOM.article
+**Rarea** | React.DOM.area
 **Raside** | React.DOM.aside
-**Raudio** | React.DOM.audio
 **Rb** | React.DOM.b
 **Rbase** | React.DOM.base
+**Raudio** | React.DOM.audio
 **Rbdi** | React.DOM.bdi
-**Rbdo** | React.DOM.bdo
-**Rbig** | React.DOM.big
 **Rblockquote** | React.DOM.blockquote
+**Rbig** | React.DOM.big
+**Rbdo** | React.DOM.bdo
 **Rbody** | React.DOM.body
-**Rbr** | React.DOM.br
 **Rbutton** | React.DOM.button
+**Rbr** | React.DOM.br
 **Rcanvas** | React.DOM.canvas
-**Rcaption** | React.DOM.caption
 **Rcircle** | React.DOM.circle
+**Rcaption** | React.DOM.caption
 **Rcite** | React.DOM.cite
 **Rcode** | React.DOM.code
-**Rcol** | React.DOM.col
 **Rcolgroup** | React.DOM.colgroup
+**Rcol** | React.DOM.col
 **Rdata** | React.DOM.data
-**Rdatalist** | React.DOM.datalist
 **Rdd** | React.DOM.dd
-**Rdefs** | React.DOM.defs
+**Rdatalist** | React.DOM.datalist
 **Rdel** | React.DOM.del
 **Rdetails** | React.DOM.details
-**Rdfn** | React.DOM.dfn
+**Rdefs** | React.DOM.defs
 **Rdiv** | React.DOM.div
+**Rdfn** | React.DOM.dfn
 **Rdl** | React.DOM.dl
 **Rdt** | React.DOM.dt
 **Rem** | React.DOM.em
-**Rembed** | React.DOM.embed
 **Rfieldset** | React.DOM.fieldset
 **Rfigcaption** | React.DOM.figcaption
+**Rembed** | React.DOM.embed
 **Rfigure** | React.DOM.figure
-**Rfooter** | React.DOM.footer
-**Rform** | React.DOM.form
 **Rg** | React.DOM.g
 **Rh1** | React.DOM.h1
+**Rform** | React.DOM.form
+**Rfooter** | React.DOM.footer
 **Rh2** | React.DOM.h2
+**Rh5** | React.DOM.h5
 **Rh3** | React.DOM.h3
 **Rh4** | React.DOM.h4
-**Rh5** | React.DOM.h5
-**Rh6** | React.DOM.h6
 **Rhead** | React.DOM.head
+**Rh6** | React.DOM.h6
 **Rheader** | React.DOM.header
-**Rhr** | React.DOM.hr
 **Rhtml** | React.DOM.html
+**Rhr** | React.DOM.hr
 **Ri** | React.DOM.i
-**Riframe** | React.DOM.iframe
-**Rimg** | React.DOM.img
-**Rinput** | React.DOM.input
 **Rins** | React.DOM.ins
 **Rkbd** | React.DOM.kbd
+**Rimg** | React.DOM.img
+**Rinput** | React.DOM.input
+**Riframe** | React.DOM.iframe
 **Rkeygen** | React.DOM.keygen
 **Rlabel** | React.DOM.label
-**Rlegend** | React.DOM.legend
 **Rli** | React.DOM.li
-**Rline** | React.DOM.line
+**Rlegend** | React.DOM.legend
 **RlinearGradient** | React.DOM.linearGradient
 **Rlink** | React.DOM.link
+**Rline** | React.DOM.line
 **Rmain** | React.DOM.main
 **Rmap** | React.DOM.map
-**Rmark** | React.DOM.mark
-**Rmenu** | React.DOM.menu
 **Rmenuitem** | React.DOM.menuitem
+**Rmenu** | React.DOM.menu
+**Rmark** | React.DOM.mark
 **Rmeta** | React.DOM.meta
-**Rmeter** | React.DOM.meter
 **Rnav** | React.DOM.nav
+**Rmeter** | React.DOM.meter
 **Rnoscript** | React.DOM.noscript
-**Robject** | React.DOM.object
 **Rol** | React.DOM.ol
+**Robject** | React.DOM.object
 **Roptgroup** | React.DOM.optgroup
-**Roption** | React.DOM.option
 **Routput** | React.DOM.output
+**Roption** | React.DOM.option
 **Rp** | React.DOM.p
-**Rparam** | React.DOM.param
 **Rpath** | React.DOM.path
+**Rparam** | React.DOM.param
 **Rpolygon** | React.DOM.polygon
-**Rpolyline** | React.DOM.polyline
 **Rpre** | React.DOM.pre
 **Rprogress** | React.DOM.progress
+**Rpolyline** | React.DOM.polyline
 **Rq** | React.DOM.q
-**RradialGradient** | React.DOM.radialGradient
 **Rrect** | React.DOM.rect
 **Rrp** | React.DOM.rp
+**RradialGradient** | React.DOM.radialGradient
 **Rrt** | React.DOM.rt
-**Rruby** | React.DOM.ruby
-**Rs** | React.DOM.s
 **Rsamp** | React.DOM.samp
+**Rs** | React.DOM.s
+**Rruby** | React.DOM.ruby
 **Rscript** | React.DOM.script
+**Rsmall** | React.DOM.small
 **Rsection** | React.DOM.section
 **Rselect** | React.DOM.select
-**Rsmall** | React.DOM.small
+**Rstop** | React.DOM.stop
 **Rsource** | React.DOM.source
 **Rspan** | React.DOM.span
-**Rstop** | React.DOM.stop
-**Rstrong** | React.DOM.strong
 **Rstyle** | React.DOM.style
+**Rstrong** | React.DOM.strong
 **Rsub** | React.DOM.sub
 **Rsummary** | React.DOM.summary
 **Rsup** | React.DOM.sup
 **Rsvg** | React.DOM.svg
-**Rtable** | React.DOM.table
 **Rtbody** | React.DOM.tbody
+**Rtable** | React.DOM.table
 **Rtd** | React.DOM.td
-**Rtext** | React.DOM.text
 **Rtextarea** | React.DOM.textarea
-**Rtfoot** | React.DOM.tfoot
+**Rtext** | React.DOM.text
 **Rth** | React.DOM.th
+**Rtfoot** | React.DOM.tfoot
 **Rthead** | React.DOM.thead
+**Rtr** | React.DOM.tr
 **Rtime** | React.DOM.time
 **Rtitle** | React.DOM.title
-**Rtr** | React.DOM.tr
 **Rtrack** | React.DOM.track
-**Ru** | React.DOM.u
 **Rul** | React.DOM.ul
+**Ru** | React.DOM.u
 **Rvideo** | React.DOM.video
-**Rwbr** | React.DOM.wbr
 **raCSS** | React.addons.CSSTransitionGroup
+**Rwbr** | React.DOM.wbr
 **raL** | React.addons.LinkedStateMixin
-**raCS** | React.addons.classSet
 **rclone** | React.addons.cloneWithProps
+**raCS** | React.addons.classSet
 **thisl** | this.linkState
-**vl** | valueLink
 **tn** | React.addons.CSSTransitionGroup.transitionName
+**vl** | valueLink
 **6rec** | ES6 React.Component class
-**rec** | React createClass template
 **mix** | React mixins
 **6cd** | ES6 React componentDidMount
+**rec** | React createClass template
 **6cw** | ES6 React componentWillMount
-**6cwu** | React componentWillUnmount
-**cd** | React componentDidMount
 **cw** | React componentWillMount
-**cwu** | React componentWillUnmount
+**cd** | React componentDidMount
+**6cwu** | React componentWillUnmount
 **unm** | React unmountComponent at node
+**cwu** | React componentWillUnmount
 **6cdu** | ES6 React componentDidUpdate
 **6cwr** | ES6 React componentWillReceiveProps
+**cdu** | React componentDidUpdate
 **6cwup** | ES6 React componentWillUpdate
 **6scu** | ES6 React shouldComponentUpdate
-**cdu** | React componentDidUpdate
-**cwr** | React componentWillReceiveProps
 **cwup** | React componentWillUpdate
+**cwr** | React componentWillReceiveProps
 **scu** | React shouldComponentUpdate
-**ctt** | React ChildContextTypes
 **cty** | React contextTypes
-**gc** | React getChildContext
+**ctt** | React ChildContextTypes
 **rwc** | React withContext
-**gdn** | React getDOMNode
+**gc** | React getChildContext
+**onch** | onChange
+**onbl** | onBlur
+**oncl** | onClick
+**onco** | onCopy
+**oncm** | onContextMenu
+**onct** | onCut
+**onde** | onDragEnd
+**ondc** | onDoubleClick
+**onden** | onDragEnter
+**ondo** | onDragOver
+**ondl** | onDragLeave
+**ondex** | onDragExit
+**onds** | onDragStart
+**onin** | onInput
+**ondr** | onDrop
+**onfo** | onFocus
+**onkp** | onKeyPress
+**onku** | onKeyUp
+**onkd** | onKeyDown
+**onmd** | onMouseDown
+**onmm** | onMouseMove
+**onme** | onMouseEnter
+**onml** | onMouseLeave
+**onmo** | onMouseOut
+**onmu** | onMouseUp
+**onmov** | onMouseOver
+**onpa** | onPaste
+**onsc** | onScroll
+**ontc** | onTouchCancel
+**onsu** | onSubmit
+**onte** | onTouchEnd
+**onts** | onTouchStart
+**ontm** | onTouchMove
+**onwh** | onWheel
 **gd** | React getDefaultProps
+**fdn** | React.findDOMNode
 **gi** | React getInitialState
-**jsx** | React JSX
-**jsx:src** | React JSX script src
 **jsxt** | React JSX script type
+**jsx:src** | React JSX script src
+**jsx** | React JSX
 **ren** | React.render
 **rren** | React render with React.DOM
 **sp** | React this.setProps
-**ss** | React this.setState
 **thisc** | React this.context
+**ss** | React this.setState
 **thisp** | React this.props
-**thisr** | React this.refs
 **thiss** | React this.state
+**thisr** | React this.refs
 **thistr** | React this.transferPropsTo

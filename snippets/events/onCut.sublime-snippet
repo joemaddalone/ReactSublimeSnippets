@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onCut$0
+]]>
+</content>
+<tabTrigger>onct</tabTrigger>
+<scope>source.js</scope>
+<description>onCut</description>
+</snippet>

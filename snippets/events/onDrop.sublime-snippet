@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onDrop$0
+]]>
+</content>
+<tabTrigger>ondr</tabTrigger>
+<scope>source.js</scope>
+<description>onDrop</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onCopy$0
+]]>
+</content>
+<tabTrigger>onco</tabTrigger>
+<scope>source.js</scope>
+<description>onCopy</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onBlur$0
+]]>
+</content>
+<tabTrigger>onbl</tabTrigger>
+<scope>source.js</scope>
+<description>onBlur</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onTouchCancel$0
+]]>
+</content>
+<tabTrigger>ontc</tabTrigger>
+<scope>source.js</scope>
+<description>onTouchCancel</description>
+</snippet>

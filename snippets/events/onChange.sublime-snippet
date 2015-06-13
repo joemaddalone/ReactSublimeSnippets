@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onChange$0
+]]>
+</content>
+<tabTrigger>onch</tabTrigger>
+<scope>source.js</scope>
+<description>onChange</description>
+</snippet>

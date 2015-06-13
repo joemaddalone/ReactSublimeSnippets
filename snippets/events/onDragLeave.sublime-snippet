@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onDragLeave$0
+]]>
+</content>
+<tabTrigger>ondl</tabTrigger>
+<scope>source.js</scope>
+<description>onDragLeave</description>
+</snippet>

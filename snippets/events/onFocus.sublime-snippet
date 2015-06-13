@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onFocus$0
+]]>
+</content>
+<tabTrigger>onfo</tabTrigger>
+<scope>source.js</scope>
+<description>onFocus</description>
+</snippet>

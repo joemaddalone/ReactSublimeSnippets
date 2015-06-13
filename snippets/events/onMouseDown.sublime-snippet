@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onMouseDown$0
+]]>
+</content>
+<tabTrigger>onmd</tabTrigger>
+<scope>source.js</scope>
+<description>onMouseDown</description>
+</snippet>

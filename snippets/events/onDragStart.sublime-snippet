@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onDragStart$0
+]]>
+</content>
+<tabTrigger>onds</tabTrigger>
+<scope>source.js</scope>
+<description>onDragStart</description>
+</snippet>

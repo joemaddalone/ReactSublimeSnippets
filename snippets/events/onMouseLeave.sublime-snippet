@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onMouseLeave$0
+]]>
+</content>
+<tabTrigger>onml</tabTrigger>
+<scope>source.js</scope>
+<description>onMouseLeave</description>
+</snippet>

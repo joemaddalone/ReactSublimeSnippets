@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onTouchMove$0
+]]>
+</content>
+<tabTrigger>ontm</tabTrigger>
+<scope>source.js</scope>
+<description>onTouchMove</description>
+</snippet>

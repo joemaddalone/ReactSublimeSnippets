@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onClick$0
+]]>
+</content>
+<tabTrigger>oncl</tabTrigger>
+<scope>source.js</scope>
+<description>onClick</description>
+</snippet>

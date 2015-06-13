@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onKeyDown$0
+]]>
+</content>
+<tabTrigger>onkd</tabTrigger>
+<scope>source.js</scope>
+<description>onKeyDown</description>
+</snippet>

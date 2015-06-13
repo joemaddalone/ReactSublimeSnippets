@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onMouseOut$0
+]]>
+</content>
+<tabTrigger>onmo</tabTrigger>
+<scope>source.js</scope>
+<description>onMouseOut</description>
+</snippet>

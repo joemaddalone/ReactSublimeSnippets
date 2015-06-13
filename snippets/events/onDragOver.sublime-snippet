@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+onDragOver$0
+]]>
+</content>
+<tabTrigger>ondo</tabTrigger>
+<scope>source.js</scope>
+<description>onDragOver</description>
+</snippet>
