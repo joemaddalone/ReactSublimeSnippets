@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Link to="$1">$2</Link>$0
+]]>
+</content>
+    <tabTrigger>link</tabTrigger>
+    <scope>source.js</scope>
+    <description>react-router Link</description>
+</snippet>

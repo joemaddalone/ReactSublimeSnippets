@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+import { $0 } from 'react-router';
+]]>
+</content>
+    <tabTrigger>imrr</tabTrigger>
+    <scope>source.js</scope>
+    <description>import react-router</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import ReactDOM from 'react-dom';
+]]>
+</content>
+    <tabTrigger>imrd</tabTrigger>
+    <description>import react-dom</description>
+</snippet>

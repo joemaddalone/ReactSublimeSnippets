@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ReactDOM.render($0)
+]]>
+</content>
+    <tabTrigger>rdr</tabTrigger>
+    <description>react-dom render</description>
+</snippet>

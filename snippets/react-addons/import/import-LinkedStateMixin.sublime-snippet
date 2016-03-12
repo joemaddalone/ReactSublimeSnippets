@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import LinkedStateMixin from 'react-addons-linked-state-mixin';$0
+]]>
+</content>
+<tabTrigger>imrlsm</tabTrigger>
+<scope>source.js</scope>
+<description>import LinkedStateMixin</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import PureRenderMixin from 'react-addons-pure-render-mixin';$0
+]]>
+</content>
+<tabTrigger>imrpr</tabTrigger>
+<scope>source.js</scope>
+<description>import PureRenderMixin</description>
+</snippet>

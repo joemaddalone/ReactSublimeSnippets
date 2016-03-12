@@ -4,10 +4,11 @@
   "description": "ReactSnippets build process",
   "main": "DocGen.js",
   "scripts": {
-    "DOM": "node ReactDOMGen",
-    "events": "node ReactEventsGen",
-    "compile": "compilesnippets --d 'snippets' --md 'README' --p 'ReactSnippets'",
-    "start": "npm run DOM && npm run events && npm run compile"
+    "DOM": "node scripts/ReactDOMGen",
+    "events": "node scripts/ReactEventsGen",
+    "addonImport": "node scripts/AddOnImports",
+    "start": "npm run addonImport && npm run DOM && npm run events && npm run compile",
+    "compile": "compilesnippets --d 'snippets' --md 'README' --p 'ReactSnippets'"
   },
   "dependencies": {
     "xml2js": "~0.4.1",

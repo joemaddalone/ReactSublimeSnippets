@@ -39,7 +39,7 @@ var reactEvents = {
 
 Object.keys(reactEvents).forEach(function(key) {
   var e = reactEvents[key]
-  fs.writeFile('snippets/events/'+e+'.sublime-snippet',
+  fs.writeFile('snippets/React/events/'+e+'.sublime-snippet',
     '<snippet>\n'+
     '<content><![CDATA[\n' +
      e + '$0\n' +

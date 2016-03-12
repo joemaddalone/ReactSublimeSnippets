@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-React.addons.classSet
-]]>
-</content>
-    <tabTrigger>raCS</tabTrigger>
-    <description>React.addons.classSet</description>
-</snippet>

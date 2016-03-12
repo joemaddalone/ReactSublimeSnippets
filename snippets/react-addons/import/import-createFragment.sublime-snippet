@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import createFragment from 'react-addons-create-fragment';$0
+]]>
+</content>
+<tabTrigger>imrcf</tabTrigger>
+<scope>source.js</scope>
+<description>import createFragment</description>
+</snippet>

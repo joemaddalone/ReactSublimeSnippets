@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import Perf from 'react-addons-perf';$0
+]]>
+</content>
+<tabTrigger>imrp</tabTrigger>
+<scope>source.js</scope>
+<description>import Perf</description>
+</snippet>

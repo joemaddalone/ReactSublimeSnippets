@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import ReactCSSTransitionGroup from 'react-addons-css-transition-group';$0
+]]>
+</content>
+<tabTrigger>imrcst</tabTrigger>
+<scope>source.js</scope>
+<description>import ReactCSSTransitionGroup</description>
+</snippet>

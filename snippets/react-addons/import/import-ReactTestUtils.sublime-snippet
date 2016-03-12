@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import ReactTestUtils from 'react-addons-test-utils';$0
+]]>
+</content>
+<tabTrigger>imrtu</tabTrigger>
+<scope>source.js</scope>
+<description>import ReactTestUtils</description>
+</snippet>

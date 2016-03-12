@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Router history={ $1 }>$0</Router>
+]]>
+</content>
+    <tabTrigger>router</tabTrigger>
+    <scope>source.js</scope>
+    <description>Router.Route</description>
+</snippet>

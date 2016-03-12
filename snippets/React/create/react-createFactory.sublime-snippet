@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+React.createFactory($1)$0
+]]>
+</content>
+    <tabTrigger>rcf</tabTrigger>
+    <scope>source.js</scope>
+    <description>React.createFactory()</description>
+</snippet>

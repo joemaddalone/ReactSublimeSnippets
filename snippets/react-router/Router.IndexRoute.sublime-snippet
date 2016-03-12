@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<IndexRoute component={ $1 }>$0</IndexRoute>
+]]>
+</content>
+    <tabTrigger>iroute</tabTrigger>
+    <scope>source.js</scope>
+    <description>Router.IndexRoute</description>
+</snippet>

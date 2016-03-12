@@ -40,16 +40,16 @@ Trigger | Description
 **Rcol** | React.DOM.col
 **Rcolgroup** | React.DOM.colgroup
 **Rdata** | React.DOM.data
-**Rdatalist** | React.DOM.datalist
 **Rdd** | React.DOM.dd
-**Rdel** | React.DOM.del
 **Rdefs** | React.DOM.defs
+**Rdatalist** | React.DOM.datalist
+**Rdel** | React.DOM.del
 **Rdetails** | React.DOM.details
 **Rdfn** | React.DOM.dfn
 **Rdiv** | React.DOM.div
 **Rdl** | React.DOM.dl
-**Rem** | React.DOM.em
 **Rdt** | React.DOM.dt
+**Rem** | React.DOM.em
 **Rembed** | React.DOM.embed
 **Rfieldset** | React.DOM.fieldset
 **Rfigcaption** | React.DOM.figcaption
@@ -73,17 +73,17 @@ Trigger | Description
 **Rinput** | React.DOM.input
 **Rins** | React.DOM.ins
 **Rkbd** | React.DOM.kbd
-**Rlabel** | React.DOM.label
 **Rkeygen** | React.DOM.keygen
-**Rlegend** | React.DOM.legend
+**Rlabel** | React.DOM.label
 **Rli** | React.DOM.li
+**Rlegend** | React.DOM.legend
 **Rline** | React.DOM.line
 **RlinearGradient** | React.DOM.linearGradient
 **Rlink** | React.DOM.link
 **Rmain** | React.DOM.main
 **Rmap** | React.DOM.map
-**Rmenu** | React.DOM.menu
 **Rmark** | React.DOM.mark
+**Rmenu** | React.DOM.menu
 **Rmenuitem** | React.DOM.menuitem
 **Rmeta** | React.DOM.meta
 **Rmeter** | React.DOM.meter
@@ -110,15 +110,15 @@ Trigger | Description
 **Rs** | React.DOM.s
 **Rsamp** | React.DOM.samp
 **Rscript** | React.DOM.script
-**Rselect** | React.DOM.select
 **Rsection** | React.DOM.section
+**Rselect** | React.DOM.select
 **Rsmall** | React.DOM.small
 **Rsource** | React.DOM.source
 **Rspan** | React.DOM.span
 **Rstop** | React.DOM.stop
 **Rstrong** | React.DOM.strong
-**Rsub** | React.DOM.sub
 **Rstyle** | React.DOM.style
+**Rsub** | React.DOM.sub
 **Rsummary** | React.DOM.summary
 **Rsup** | React.DOM.sup
 **Rsvg** | React.DOM.svg
@@ -138,13 +138,21 @@ Trigger | Description
 **Rul** | React.DOM.ul
 **Rvideo** | React.DOM.video
 **Rwbr** | React.DOM.wbr
-**raCSS** | React.addons.CSSTransitionGroup
-**raL** | React.addons.LinkedStateMixin
-**raCS** | React.addons.classSet
-**rclone** | React.addons.cloneWithProps
-**thisl** | this.linkState
-**vl** | valueLink
-**tn** | React.addons.CSSTransitionGroup.transitionName
+**fdn** | React.findDOMNode
+**unm** | ReactDOM unmountComponent at node
+**rdr** | react-dom render
+**rtsm** | ReactDOMServer.renderToStaticMarkup
+**rts** | ReactDOMServer.renderToString
+**imrlsm** | import LinkedStateMixin
+**imrp** | import Perf
+**imrpr** | import PureRenderMixin
+**imrcst** | import ReactCSSTransitionGroup
+**imrtu** | import ReactTestUtils
+**imrtg** | import ReactTransitionGroup
+**imrcl** | import cloneWithProps
+**imrcf** | import createFragment
+**imrsc** | import shallowCompare
+**imru** | import update
 **6rec** | ES6 React.Component class
 **rec** | React createClass template
 **mix** | React mixins
@@ -154,7 +162,6 @@ Trigger | Description
 **cd** | React componentDidMount
 **cw** | React componentWillMount
 **cwu** | React componentWillUnmount
-**unm** | React unmountComponent at node
 **6cdu** | ES6 React componentDidUpdate
 **6cwr** | ES6 React componentWillReceiveProps
 **6cwup** | ES6 React componentWillUpdate
@@ -168,6 +175,7 @@ Trigger | Description
 **gc** | React getChildContext
 **rwc** | React withContext
 **rc** | React.createElement()
+**rcf** | React.createFactory()
 **onbl** | onBlur
 **onch** | onChange
 **oncl** | onClick
@@ -181,8 +189,8 @@ Trigger | Description
 **ondl** | onDragLeave
 **ondo** | onDragOver
 **onds** | onDragStart
-**ondr** | onDrop
 **onfo** | onFocus
+**ondr** | onDrop
 **onin** | onInput
 **onkd** | onKeyDown
 **onkp** | onKeyPress
@@ -202,18 +210,27 @@ Trigger | Description
 **ontm** | onTouchMove
 **onts** | onTouchStart
 **onwh** | onWheel
-**fdn** | React.findDOMNode
 **gd** | React getDefaultProps
 **gi** | React getInitialState
-**jsx** | React JSX
-**jsx:src** | React JSX script src
-**jsxt** | React JSX script type
-**ren** | React.render
-**rren** | React render with React.DOM
+**imr** | import react
+**imrd** | import react-dom
+**raCSS** | React.addons.CSSTransitionGroup
+**raL** | React.addons.LinkedStateMixin
+**raCS** | React.addons.classSet
+**rclone** | React.addons.cloneWithProps
+**thisl** | this.linkState
+**vl** | valueLink
+**tn** | React.addons.CSSTransitionGroup.transitionName
+**link** | react-router Link
+**redirect** | react-router Redirect
+**ilink** | Router.IndexLink
+**iroute** | Router.IndexRoute
+**route** | Router.Route
+**router** | Router.Route
+**imrr** | import react-router
 **sp** | React this.setProps
 **ss** | React this.setState
 **thisc** | React this.context
 **thisp** | React this.props
 **thisr** | React this.refs
 **thiss** | React this.state
-**thistr** | React this.transferPropsTo

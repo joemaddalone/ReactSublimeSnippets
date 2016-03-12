@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-React.render(${1:Component}($2), document.$0);
-]]>
-</content>
-    <tabTrigger>rren</tabTrigger>
-    <scope>source.js</scope>
-    <description>React render with React.DOM</description>
-</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import update from 'react-addons-update';$0
+]]>
+</content>
+<tabTrigger>imru</tabTrigger>
+<scope>source.js</scope>
+<description>import update</description>
+</snippet>

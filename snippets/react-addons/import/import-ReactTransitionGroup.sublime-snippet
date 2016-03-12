@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import ReactTransitionGroup from 'react-addons-transition-group';$0
+]]>
+</content>
+<tabTrigger>imrtg</tabTrigger>
+<scope>source.js</scope>
+<description>import ReactTransitionGroup</description>
+</snippet>

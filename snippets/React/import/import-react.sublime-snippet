@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+]]>
+</content>
+    <tabTrigger>imr</tabTrigger>
+    <description>import react</description>
+</snippet>

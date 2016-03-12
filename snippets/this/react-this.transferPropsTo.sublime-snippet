@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[this.transferPropsTo($0)]]>
-</content>
-    <tabTrigger>thistr</tabTrigger>
-    <scope>source.js</scope>
-    <description>React this.transferPropsTo</description>
-</snippet>

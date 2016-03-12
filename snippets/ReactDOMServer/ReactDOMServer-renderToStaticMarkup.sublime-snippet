@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+ReactDOMServer.renderToStaticMarkup($0)
+]]>
+</content>
+    <tabTrigger>rtsm</tabTrigger>
+    <scope>source.js</scope>
+    <description>ReactDOMServer.renderToStaticMarkup</description>
+</snippet>

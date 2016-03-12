@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<Redirect from='$1' to='$2'></Redirect>$0
+]]>
+</content>
+    <tabTrigger>redirect</tabTrigger>
+    <scope>source.js</scope>
+    <description>react-router Redirect</description>
+</snippet>

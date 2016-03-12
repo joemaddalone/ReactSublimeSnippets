@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<IndexLink to="$1">$2</IndexLink>
+]]>
+</content>
+    <tabTrigger>ilink</tabTrigger>
+    <scope>source.js</scope>
+    <description>Router.IndexLink</description>
+</snippet>

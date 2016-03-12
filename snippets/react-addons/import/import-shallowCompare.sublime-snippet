@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+import shallowCompare from 'react-addons-shallow-compare';$0
+]]>
+</content>
+<tabTrigger>imrsc</tabTrigger>
+<scope>source.js</scope>
+<description>import shallowCompare</description>
+</snippet>
