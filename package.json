@@ -8,14 +8,19 @@
     "events": "node scripts/ReactEventsGen",
     "addonImport": "node scripts/AddOnImports",
     "start": "npm run addonImport && npm run DOM && npm run events && npm run compile",
-    "compile": "compilesnippets --d 'snippets' --md 'README' --p 'ReactSnippets'"
-  },
-  "dependencies": {
-    "xml2js": "~0.4.1",
-    "easy-zip": "0.0.4"
+    "compile": "npm run compile-react && npm run compile-react-router && npm run compile-reactDOM && npm run compile-react-DOM && npm run compile-react-DOMServer && npm run compile-react-addons && npm run buildmd && npm run compile-package",
+    "compile-react": "compilesnippets --d 'snippets/React' --o 'snippets/React'  --t 'React' --nopackage",
+    "compile-react-router": "compilesnippets --d 'snippets/react-router' --o 'snippets/react-router'  --t 'React-Router' --nopackage",
+    "compile-reactDOM": "compilesnippets --d 'snippets/ReactDOM' --o 'snippets/ReactDOM'  --t 'ReactDOM' --nopackage",
+    "compile-react-DOM": "compilesnippets --d 'snippets/React.DOM' --o 'snippets/React.DOM' --t 'React.DOM' --nopackage",
+    "compile-react-DOMServer": "compilesnippets --d 'snippets/ReactDOMServer' --o 'snippets/ReactDOMServer' --t 'ReactDOMServer' --nopackage",
+    "compile-react-addons": "compilesnippets --d 'snippets/react-addons' --o 'snippets/react-addons' --t 'React.addons' --nopackage",
+    "buildmd": "node scripts/buildmd",
+    "compile-package": "compilesnippets --d 'snippets' --nomd --p 'ReactSnippets'"
   },
   "devDependencies": {
-    "compilesnippets": "0.0.3"
+    "compilesnippets": "0.0.6",
+    "find": "^0.2.4"
   },
   "repository": {
     "type": "git",
