@@ -277,14 +277,13 @@ This created a directory named `snippets` containing all of the snippets.
 Install the snippets
 =================================
 
-Move the `snippets` directory into a Sublime directory. The `Packages/User` works:
-
-
 Ubuntu
 ----
 
+From inside the root directory of this repository, move the `snippets` directory into `Packages/User`:
+
 ```
-~/.config/sublime-text-3/Packages/User
+mv snippets ~/.config/sublime-text-3/Packages/User
 ```
 
 You may have to restart Sublime.
