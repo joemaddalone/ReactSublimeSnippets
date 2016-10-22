@@ -250,13 +250,13 @@ Trigger | Description
 **route** | Router.Route
 **router** | Router.Route
 
-Installation
+Build the snippets
 =================================
 
 Clone the repo (anywhere) and navigate into the directory:
 
 ```
-https://github.com/joemaddalone/ReactSublimeSnippets.git
+git clone https://github.com/joemaddalone/ReactSublimeSnippets.git
 cd ReactSublimeSnippets
 ```
 
@@ -274,7 +274,10 @@ npm run start
 
 This created a directory named `snippets` containing all of the snippets.
 
-Move this `snippets` folder into the appropriate directory:
+Install the snippets
+=================================
+
+Move the `snippets` directory into a Sublime directory. The `Packages/User` works:
 
 
 Ubuntu
