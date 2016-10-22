@@ -249,3 +249,39 @@ Trigger | Description
 **imrr** | import react-router
 **route** | Router.Route
 **router** | Router.Route
+
+Installation
+=================================
+
+Clone the repo (anywhere) and navigate into the directory:
+
+```
+https://github.com/joemaddalone/ReactSublimeSnippets.git
+cd ReactSublimeSnippets
+```
+
+Install the npm dependencies:
+
+```
+npm install
+```
+
+Run the start script to generate the snippets:
+
+```
+npm run start
+```
+
+This created a directory named `snippets` containing all of the snippets.
+
+Move this `snippets` folder into the appropriate directory:
+
+
+Ubuntu
+----
+
+```
+~/.config/sublime-text-3/Packages/User
+```
+
+You may have to restart Sublime.
